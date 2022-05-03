@@ -3,7 +3,7 @@
 
 ## 🔎 ¿Qué incluye?:
 - Código fuente >> dni.wtf | dash.dni.wtf
-- Código fuente del BOT de Discord. (Librería: Discord.JS@dev)
+- Código fuente >> BOT de Discord. (Librería: Discord.JS@dev)
 - API REST >> InfoExperto + Renaper (adaptación).
 - Dominio web >> dni.wtf (se transfiere la propiedsd).
 
