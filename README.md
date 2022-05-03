@@ -5,7 +5,7 @@
 - Código fuente >> dni.wtf | dash.dni.wtf
 - Código fuente >> BOT de Discord. (Librería: Discord.JS@dev)
 - API REST >> InfoExperto + Renaper (adaptación).
-- Dominio web >> dni.wtf (se transfiere la propiedsd).
+- Dominio web >> dni.wtf (se transfiere la propiedad).
 
 ## 💬 Contacto:
 `Telegram:` [@notp1mp](https://t.me/notp1mp)
